@@ -1,1 +1,1 @@
-Neste repositório se encontra programas relacionados a disciplina de Termodinâmica e Microfísica de nuvens do INPE-SP. Nestes programs encontram-se cálculos relacionados a saída do modelo BAM. Divirta-se!!!!
+Neste repositório encontram-se programas relacionados a disciplina de Termodinâmica e Microfísica de nuvens do INPE-SP. Nestes programas encontram-se cálculos relacionados a saída do modelo BAM. Divirta-se!!!!
